@@ -3,7 +3,6 @@
 
 import os
 import time
-import threading
 import cv2
 from skimage.measure import compare_ssim as ssim
 from PIL import Image
